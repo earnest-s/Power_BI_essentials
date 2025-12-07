@@ -55,10 +55,6 @@ The repository has a simple layout:
 
 *(No additional data or code files are included. The PBIX file contains everything needed.)*
 
-## License
-
-This project does not include a license file. If you wish to allow others to reuse your work, consider adding an open-source license (for example, the [MIT License](https://opensource.org/licenses/MIT)).
-
 ## Author Info
 
 This report was created by **Earnest S.** (GitHub user [@snipergib](https://github.com/snipergib)). You can learn more about me on my portfolio [portfolio website](http://earni.onrender.com) or connect with me on LinkedIn (Earnest S.).
